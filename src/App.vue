@@ -5,7 +5,7 @@ import Header from './components/Header.vue';
 </script>
 
 <template>
-  <!-- Здесь подключается то, что будет общи для всего сайта. Например, Header (шапка сайта). -->
+  <!-- Здесь подключается то, что будет общим для всего сайта. Например, Header (шапка сайта). -->
   <div class="bg-white w-4/5 m-auto rounded-xl shadow-xl mt-14">
     <Header />
   </div>
